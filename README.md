@@ -130,8 +130,7 @@ F-statistic        86.58        ✅
 F p-value        1.11e-16✅ 
 
 
-გვაქვს underfitting არ არის საკმარისად კომპლექსური მოდელი. 
- შეგვიძლია ვცადოთ რეგულარიზაცია.
+გვაქვს underfitting არ არის საკმარისად კომპლექსური მოდელი.  შეგვიძლია ვცადოთ რეგულარიზაცია.
 ----------------------------------------------------------------------------
 2. LASSO
 https://dagshub.com/TamariToradze/ML_Advanced-Regression-Techniques.mlflow/#/experiments/7/runs/bf27934dbee84e27b189818ee7b4b9cb
