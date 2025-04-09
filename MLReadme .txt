@@ -260,8 +260,7 @@ cross-validationის კარგი შედეგი აჩვენებ�
 
 
 5.XGBoost
-https://dagshub.com/TamariToradze/ML_Advanced-Regression-Techniques.mlflow/#/experiments/9/runs/d8ddd53d72c24281835cc18ff6619c1a
-
+https://dagshub.com/TamariToradze/ML_Advanced-Regression-Techniques.mlflow/#/experiments/9/runs/38223eec33af47a1b44135eb75d4759c
 
 R-squared (R2)  0.8668-  0.8-ზე მაღალია რაც კარგი შედეგია , მოდელი ხსნის მონაცემთა ვარიაციის 87%ს.
 
