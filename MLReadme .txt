@@ -1,4 +1,7 @@
-﻿House Price Prediction - Kaggle Competition
+dagshub link:
+https://dagshub.com/TamariToradze/ML_Advanced-Regression-Techniques
+
+House Price Prediction - Kaggle Competition
 კონკურსის მიმოხილვა
 ეს პროექტი წარმოადგენს Kaggle-ის კონკურსის ნაწილს, სადაც მთავარი ამოცანაა საცხოვრებელი სახლების ფასების პროგნოზირება სხვადასხვა მახასიათებლების საფუძველზე.
 
